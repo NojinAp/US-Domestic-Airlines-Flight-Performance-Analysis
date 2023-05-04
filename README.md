@@ -22,4 +22,3 @@ Below is the expected result from the dashboard application. It consists of thre
   </ul>
  </ul>
 <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/labs/Module%204/images/lab3_expected_output.png" />
-,,
